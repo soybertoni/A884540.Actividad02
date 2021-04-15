@@ -1,0 +1,16 @@
+/home/bryanbertoni/Documents/CAI/bin/Debug/net5.0/CAI
+/home/bryanbertoni/Documents/CAI/bin/Debug/net5.0/CAI.deps.json
+/home/bryanbertoni/Documents/CAI/bin/Debug/net5.0/CAI.runtimeconfig.json
+/home/bryanbertoni/Documents/CAI/bin/Debug/net5.0/CAI.runtimeconfig.dev.json
+/home/bryanbertoni/Documents/CAI/bin/Debug/net5.0/CAI.dll
+/home/bryanbertoni/Documents/CAI/bin/Debug/net5.0/ref/CAI.dll
+/home/bryanbertoni/Documents/CAI/bin/Debug/net5.0/CAI.pdb
+/home/bryanbertoni/Documents/CAI/obj/Debug/net5.0/CAI.csprojAssemblyReference.cache
+/home/bryanbertoni/Documents/CAI/obj/Debug/net5.0/CAI.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryanbertoni/Documents/CAI/obj/Debug/net5.0/CAI.AssemblyInfoInputs.cache
+/home/bryanbertoni/Documents/CAI/obj/Debug/net5.0/CAI.AssemblyInfo.cs
+/home/bryanbertoni/Documents/CAI/obj/Debug/net5.0/CAI.csproj.CoreCompileInputs.cache
+/home/bryanbertoni/Documents/CAI/obj/Debug/net5.0/CAI.dll
+/home/bryanbertoni/Documents/CAI/obj/Debug/net5.0/ref/CAI.dll
+/home/bryanbertoni/Documents/CAI/obj/Debug/net5.0/CAI.pdb
+/home/bryanbertoni/Documents/CAI/obj/Debug/net5.0/CAI.genruntimeconfig.cache
